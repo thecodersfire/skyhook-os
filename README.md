@@ -25,8 +25,4 @@ The `skyhook.svg` wallpaper is original. Skyhook OS is an independent Ubuntu cus
 See [FEATURES.md](FEATURES.md) for three local tools included for cloud platform work.
 
 
-The installer also includes three purpose-specific applications: **Wireshark, org.kicad.KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **DB Browser for SQLite, Wireshark, KeePassXC**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
